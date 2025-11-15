@@ -11,11 +11,9 @@
     "esModuleInterop": true,
     "types": [
       "./types/mediaType.d.ts",
-      "./types/plugin.d.ts"
+      "./types/plugin.d.ts",
+      "./types/nanoMeting.d.ts"
     ]
   },
-  "include": [
-    "./types/*",
-    "./src/**/*"
-  ]
+  "include": ["./types/*", "./src/**/*"]
 }

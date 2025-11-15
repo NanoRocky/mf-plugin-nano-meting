@@ -1,7 +1,7 @@
 {
-  "name": "MusicFreePluginTemplate",
+  "name": "mf-plugin-nano-meting",
   "version": "1.0.0",
-  "description": "MusicFree插件模板",
+  "description": "MusicFree 插件，适配 github.com/NanoRocky 修改后的 meting",
   "source": "src/index.ts",
   "main": "dist/plugin.js",
   "scripts": {
@@ -11,8 +11,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "猫头猫",
-    "email": "lhx_xjtu@163.com"
+    "name": "Pizero",
+    "email": "zhaory200707@outlook.com"
   },
   "license": "MIT",
   "dependencies": {
